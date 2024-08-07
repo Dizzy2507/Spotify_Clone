@@ -1,0 +1,14 @@
+<svg id='Controls_Next_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.83 0 0 0.83 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -5.25 0.01)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" translate(-6.75, -12.01)" d="M 13 10.86 L 2.5 1.38 C 2.0561413667417074 0.9828842769090422 1.4193833787280605 0.8859829189455235 0.8774878083593474 1.133087299033657 C 0.3355922379906344 1.3801916791217903 -0.008779517264041914 1.924488200015664 0 2.5200000000000005 L 0 21.52 C 0.00006870442665889737 22.111414320470647 0.3453932592111292 22.648346655406016 0.8835017897323882 22.89372414532371 C 1.4216103202536474 23.139101635241403 2.05343306386081 23.04774846837262 2.5 22.66 L 13 13.14 C 13.318569914996612 12.846527118221584 13.499809541083144 12.433143305477849 13.499809541083144 12 C 13.499809541083144 11.56685669452215 13.318569914996612 11.153472881778416 13 10.86 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 8.5 0)" >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" x="-3.5" y="-12" rx="1.5" ry="1.5" width="7" height="24" />
+</g>
+</g>
+</g>
+</svg>
